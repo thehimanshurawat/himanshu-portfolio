@@ -1,5 +1,5 @@
 import React from "react";
-import Offerletter1 from "../assets/Offerletter1.png"
+import Offerletter from "../assets/Offerletter.png"
 import appointment1 from "../assets/appointment1.png"
 import LOR1 from "../assets/LOR1.png"
 const Experience = () => {
@@ -8,7 +8,7 @@ const Experience = () => {
     const Experience = [
         {
             id: 1,
-            src: Offerletter1
+            src: Offerletter
         },
         {
           id: 2,
